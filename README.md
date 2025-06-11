@@ -37,7 +37,7 @@ The goal of this project is to:
 
 ## Dashboard
 
-View the Excel dashboard [here]
+View the dashboard [here](https://docs.google.com/spreadsheets/d/1nbhUCRg5B7rKWaFeSD0RW97J4206bp0nzKfutOrXsV0/edit?usp=sharing)
 
 
 
